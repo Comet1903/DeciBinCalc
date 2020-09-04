@@ -71,7 +71,7 @@ public class DeciBinCalc {
  * BETA v 0.0.4 Dont output overflowed zeros (0)                                 (File: "N/A")
  * BETA v 0.1.0 Loop Calculation inclufing input                                 (File: "N/A")
  * BETA v 0.1.1 Loop Calculation including an exit while typing a zero "0"       (File: "N/A")
- * BETA v 0.1.2 Creating a description                                           (File: "https://github.com/Comet1903/DeziBinCalc")
+ * BETA v 0.1.2 Creating a description                                           (File: "https://github.com/Comet1903/DeciBinCalc")
 */
 
 
