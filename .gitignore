@@ -11,7 +11,7 @@
 .mtj.tmp/
 
 #versions
-versions/*
+/versions.*
 
 # Package Files #
 *.jar
