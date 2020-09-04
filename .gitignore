@@ -10,8 +10,6 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-#versions
-/versions.*
 
 # Package Files #
 *.jar
