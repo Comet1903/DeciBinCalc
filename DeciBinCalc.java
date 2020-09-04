@@ -11,7 +11,7 @@ public class DeciBinCalc {
         int deci;
         int rest;
         System.out.println("//////////////////////////////////////////////////");
-        System.out.println("// DeciBinCalc by Julian-Horn.net (BETA v0.1.3) //");
+        System.out.println("// DeciBinCalc by Julian-Horn.net (BETA v0.1.2) //");
         System.out.println("//         Mailto: Info@Julian-Horn.net         //");
         System.out.println("//////////////////////////////////////////////////");
         System.out.println("//      NOTE: the output is upside down!        //");
