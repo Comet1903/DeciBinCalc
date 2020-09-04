@@ -11,7 +11,7 @@ public class DeciBinCalc {
         int deci;
         int rest;
         System.out.println("//////////////////////////////////////////////////");
-        System.out.println("// DeciBinCalc by Julian-Horn.net (BETA v0.1.3) //");
+        System.out.println("// DeciBinCalc by Julian-Horn.net (BETA v0.1.2) //");
         System.out.println("//         Mailto: Info@Julian-Horn.net         //");
         System.out.println("//////////////////////////////////////////////////");
         System.out.println("//      NOTE: the output is upside down!        //");
@@ -71,7 +71,7 @@ public class DeciBinCalc {
  * BETA v 0.0.4 Dont output overflowed zeros (0)                                 (File: "N/A")
  * BETA v 0.1.0 Loop Calculation inclufing input                                 (File: "N/A")
  * BETA v 0.1.1 Loop Calculation including an exit while typing a zero "0"       (File: "N/A")
- * BETA v 0.1.2 Creating a description                                           (File: "https://github.com/Comet1903/DeziBinCalc")
+ * BETA v 0.1.2 Creating a description                                           (File: "https://github.com/Comet1903/DeciBinCalc")
 */
 
 
